@@ -1,4 +1,5 @@
 # English Version
+![GitHub](https://img.shields.io/github/license/willianadb/gold_purification_prediction)
 
 ## Taxi Driver Allocation Optimization
 
